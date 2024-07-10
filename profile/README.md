@@ -15,7 +15,6 @@ Boost your online presence with Mandarin's expert social media marketing service
 ### 💻 Open-Source Software
 As a strong advocate for open-source software, Mandarin contributes to the tech community by developing and sharing innovative projects. Explore our repositories to find tools and applications that are free to use, modify, and distribute.
 
----
 
 ## Contact
 
