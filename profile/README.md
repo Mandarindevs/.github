@@ -21,7 +21,7 @@ As a strong advocate for open-source software, Mandarin contributes to the tech 
 For inquiries, collaborations, or just to say hello, you can reach Mandarin through the following channels:
 
 - **📧 Email:** mandarinsupp22@gmail.com
-- **🐦 CEO`s GitHub:** [@bartikele](https://github.com/bartikele)
+- **🐈‍⬛ CEO`s GitHub:** [@bartikele](https://github.com/bartikele)
 - **💼 CEO`s LinkedIn:** [Mandarin](https://www.linkedin.com/in/bartosz-worobiew-545397295/)
 
 Thank you for visiting the Mandarin GitHub profile. Stay tuned for more exciting projects and updates!
